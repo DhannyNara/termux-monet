@@ -56,6 +56,7 @@ Here's a quick tutorial on how to add it to the app.
 - [Phantom Process Killer](#Phantom-Process-Killer)
 - [Nightly Releases](#Nightly-Builds)
 - [Wikis](#Wikis)
+- [Downloads](https://github.com/FlutterGenerator/termux-monet/releases)
 - [Miscellaneous](#Miscellaneous)
 - [True italic fonts](#True-italic-fonts)
 - [Displaying images in Termux](#Displaying-images-in-Termux)
